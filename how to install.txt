@@ -1,0 +1,9 @@
+apt update -y
+apt upgrade -y
+pkg install python -y
+pip install requests
+pip install random
+pip install colorama
+pip install argparse
+
+Вот что надо для установки

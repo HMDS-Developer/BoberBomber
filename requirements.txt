@@ -1,0 +1,5 @@
+python -y
+requests
+random
+colorama
+argparse
