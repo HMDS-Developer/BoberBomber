@@ -2,7 +2,7 @@ apt update -y
 apt upgrade -y
 cd BoberBomber
 pip install -r requirements.txt
-python3 bober.pyc
+python bober.pyc
 
 
 (если не сработало) то вот ещё способ
@@ -16,7 +16,7 @@ pip install random
 pip install colorama
 pip install argparse
 cd BoberBomber
-python3 bober.pyc
+python bober.pyc
 
 
 Вот что надо для установки
