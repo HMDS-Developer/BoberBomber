@@ -3,7 +3,7 @@
 не большое обновление, исправлен интерфейс добавлено 2 сервиса,
 скоро будет siteddos, gmail bomber
 
---[ANDROID AND LINUX
+--[ANDROID
 
 apt update -y
 apt upgrade -y
