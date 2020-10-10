@@ -1,5 +1,4 @@
 python -y
-requests
-random
-colorama
-argparse
+requests -y
+colorama -y
+argparse -y
