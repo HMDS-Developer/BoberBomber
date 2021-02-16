@@ -1,4 +1,3 @@
-python -y
-requests -y
-colorama -y
-argparse -y
+requests
+colorama
+argparse
