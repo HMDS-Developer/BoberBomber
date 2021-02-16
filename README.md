@@ -9,7 +9,7 @@ apt update -y
 apt upgrade -y
 cd BoberBomber
 pip install -r requirements.txt
-python bober.pyc
+python bober.py
 
 
 (если не сработало) то вот ещё способ
@@ -23,7 +23,7 @@ pip install random
 pip install colorama
 pip install argparse
 cd BoberBomber
-python bober.pyc
+python bober.py
 ]--
 
 #--[LINUX
@@ -32,7 +32,7 @@ apt update -y
 apt upgrade -y
 cd BoberBomber
 pip install -r requirements.txt
-python3 bober.pyc
+python3 bober.py
 
 (если не сработало) то вот ещё способ
 
@@ -44,5 +44,5 @@ pip install random
 pip install colorama
 pip install argparse
 cd BoberBomber
-python3 bober.pyc
+python3 bober.py
 
